@@ -185,7 +185,7 @@ aSAH-Prediction/
 
 <div align="center">
 
-Developed with ❤️ by [**Your Name**]
+Developed with ❤️ by [**jia-ning-tech**]
 
 </div>
 
