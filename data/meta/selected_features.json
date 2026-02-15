@@ -1,0 +1,16 @@
+{
+    "source": "R_Kaggle_Reproduction",
+    "final_features": [
+        "Age",
+        "GCS",
+        "Hunthess",
+        "Modified fisher",
+        "Wfns",
+        "PNI",
+        "PAR",
+        "NLPR",
+        "SIRI",
+        "SII",
+        "AISI"
+    ]
+}

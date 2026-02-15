@@ -1,0 +1,21 @@
+# 忽略数据文件 (因为数据通常很大且敏感)
+data/raw/
+data/processed/
+*.csv
+*.pkl
+*.xlsx
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略虚拟环境
+.venv/
+env/
+
+# 忽略系统文件
+.DS_Store
+.ipynb_checkpoints/
+
+# 忽略打包文件
+*.tar.gz
